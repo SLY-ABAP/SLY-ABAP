@@ -2,9 +2,8 @@
 - 👀 I’m interested in SAP development
 - 🌱 I’m currently learning new SAP features 
 - 💞️ I’m looking to collaborate on SAP projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach m: chat
+- ⚡ Fun fact: no way :)
 
 <!---
 SLY-ABAP/SLY-ABAP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
