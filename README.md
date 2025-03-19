@@ -2,7 +2,7 @@
 - 👀 I’m interested in SAP development
 - 🌱 I’m currently learning new SAP features 
 - 💞️ I’m looking to collaborate on SAP projects
-- 📫 How to reach m: chat
+- 📫 How to reach mу: chat
 - ⚡ Fun fact: no way :)
 
 <!---
