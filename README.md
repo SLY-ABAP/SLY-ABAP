@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning new SAP features 
 - 💞️ I’m looking to collaborate on SAP projects
 - 📫 How to reach mу: chat
-- ⚡ Fun fact: no way :)
+- ⚡ Fun fact: on demand :)
 
 <!---
 SLY-ABAP/SLY-ABAP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
