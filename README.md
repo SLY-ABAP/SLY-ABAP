@@ -1,21 +1,21 @@
-# Привет! Я Вадим 👋
+# Hi, I'm Vadim 👋
 
-### ABAP-разработчик · SAP
+### ABAP Developer · SAP
 
-Добро пожаловать в мой GitHub! Я занимаюсь ABAP-разработкой, изучаю новые возможности SAP и открыт к совместной работе над SAP-проектами.
+Welcome to my GitHub! I work with ABAP, explore new SAP features, and enjoy connecting with others in the SAP community.
 
-## Что мне интересно
+## What I'm interested in
 
-- 💻 Разработка в экосистеме SAP.
-- 🌱 Новые возможности SAP и их применение на практике.
-- 🤝 Обмен опытом и сотрудничество над интересными проектами.
+- 💻 Development in the SAP ecosystem.
+- 🌱 Exploring new SAP features and putting them into practice.
+- 🤝 Sharing knowledge and collaborating on interesting projects.
 
-## Давайте знакомиться
+## Let's connect
 
-Здесь буду делиться своими проектами, находками и опытом. Если вам тоже интересна SAP-разработка — буду рад общению!
+I'll be sharing projects, discoveries, and lessons learned along the way. If you're into SAP development too, I'd love to hear from you!
 
-📫 Напишите мне в чате, где мы познакомились.
+📫 Feel free to reach out in the chat where we connected.
 
 ---
 
-*SAP · ABAP · Учусь новому и открыт к сотрудничеству*
+*SAP · ABAP · Always learning · Open to collaboration*
